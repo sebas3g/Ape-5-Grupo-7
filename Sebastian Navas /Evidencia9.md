@@ -2,5 +2,6 @@
 
 ** IMAGEN EN TXT **
 
-<img width="247" height="155" alt="borar xs" src="https://github.com/user-attachments/assets/cc473702-62be-4b92-bac4-8c83a43c82f0" />
+<img width="385" height="92" alt="image" src="https://github.com/user-attachments/assets/f5d55156-9f85-4058-8995-12e43182a10c" />
+
 

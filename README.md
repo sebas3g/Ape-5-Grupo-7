@@ -6,8 +6,6 @@
 
 **GRUPO 5**
 
-![Portada APE 5](portada.png)
-
 ---
 
 ## 👥 INTEGRANTES DEL GRUPO
